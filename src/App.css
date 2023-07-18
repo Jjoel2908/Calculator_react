@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.calculadora {
+  width: 400px;
+  height: 560px;
+  border-radius: 20px;
+  border: 4px solid orangered;
+  background-color: white;
+  padding: 12px;
+}
+
+.boxes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
